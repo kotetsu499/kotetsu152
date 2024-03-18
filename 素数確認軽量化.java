@@ -26,7 +26,7 @@ public class 素数確認軽量化 {
             do{
                 //waru が　primeの半分まで来ていないかを確認する。(半分まで来ていたら素数ではないので)
                 if(waru==prime/2+0.5){
-                    System.out.println("素数ですねえ");
+                    System.out.println("素数です");
                     IsPrime = 1;
                 }
                 //半分確認終了
