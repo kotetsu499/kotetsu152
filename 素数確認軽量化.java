@@ -40,9 +40,7 @@ public class 素数確認軽量化 {
             }else{
                 waru++;
             }
-        }else{
-            System.out.println("素数です");
-            IsPrime = 1;
+        }
         }
         }while(IsPrime == 0);
 
