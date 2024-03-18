@@ -40,8 +40,7 @@ public class 素数確認軽量化 {
             }else{
                 waru++;
             }
-        }
-        }
+            }
         }while(IsPrime == 0);
 
         }while(true);
