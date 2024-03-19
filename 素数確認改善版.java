@@ -1,9 +1,7 @@
-import java.util.*;
+import java.util.Scanner;
 public class 素数確認改善版 {
     public static void main(String[] args) throws Exception {
-        double prime;
-        double waru = 2;
-        int Finish = 0;
+        double prime, waru = 2; int Finish = 0;
         do{
         Finish = 0;
         waru = 2;
